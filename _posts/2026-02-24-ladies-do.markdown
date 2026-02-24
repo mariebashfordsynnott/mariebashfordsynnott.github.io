@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Ladies' Do, 6th-8th June 2025 at the Millbank Theatre"
-date:   2025-06-15 21:00:00 +0000
+date:   2026-02-24 21:00:00 +0000
 categories: news
 ---
-<img width=300 src="/img/ladies-do.jpg" alt="A poster for the play Ladies' Do; an upraised woman's hand, wrapped in a Catholic rosary, holds up a half-filled wine glass." />
+<img width=600 src="/img/ladies-do.jpg" alt="A poster for the play Ladies' Do; an upraised woman's hand, wrapped in a Catholic rosary, holds up a half-filled wine glass." />
 
 ### “Ladies' Do”  at the Millbank\! \- A Smash Hit \! 
 
