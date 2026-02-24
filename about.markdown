@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Limerick born Marie Bashford Synnott, now living in Skerries, County Dublin, is a prizewinning playwright, published poet and novelist.  Interested in women's history, she holds an MA in Women's Studies from UCD.  
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Read more in Marie's <a href="/biography/">literary biography</a>.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+<img width=300 src="/img/marie.jpg" alt="A photograph of Marie smiling at the camera." />
