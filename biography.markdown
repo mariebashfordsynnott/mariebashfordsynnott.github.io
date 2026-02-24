@@ -4,8 +4,8 @@ title: Literary Biography
 permalink: /biography/
 ---
 
-Was born and raised in Limerick City where as a member of a Irish speaking drama  
-group \- **“Buíon Phádraig”** \-  achieved **twelve Best Actress awards.** 
+Born and raised in Limerick City, where as a member of a Irish speaking drama  
+group \- **“Buíon Phádraig”** \- she achieved **twelve Best Actress awards.** 
 
 Is married with four grown-up children and has lived **in Skerries, County Dublin,  since 1977\.**
 
