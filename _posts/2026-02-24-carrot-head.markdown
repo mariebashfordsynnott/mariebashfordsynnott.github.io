@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "\"Carrot Head\", a short story"
+title:  "\"Carrot Head\""
 date:   2026-02-24 20:00:00 +0000
 categories: writing
 ---

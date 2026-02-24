@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "In the Weigh-Room an ancient ladder"
-date:   2026-02-24 19:00:00 +0000
+date:   2026-02-24 18:00:00 +0000
 categories: writing
 ---
 **Published in “Washing Windows 111” by Arlen House, 2023\.**
