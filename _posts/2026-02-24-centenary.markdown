@@ -275,6 +275,7 @@ categories: writing
 <p>fluttering towards the Victorian glass and</p>
 <p>iron roof as the train slows down</p>
 <p>and stops ...and I stop. End of the line.</p>
+
 </div>
 
-**Published in “A New Ulster “ Magazine \- Issue 63 – 2017**
+**Published in “A New Ulster “ Magazine - Issue 63 – 2017**
