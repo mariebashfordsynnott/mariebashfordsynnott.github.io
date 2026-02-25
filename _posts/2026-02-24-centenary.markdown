@@ -4,7 +4,7 @@ title:  "Centenary"
 date:   2026-02-24 19:00:00 +0000
 categories: writing
 ---
-<div style="text-align: justify; text-align-last: justify; width: 300px">
+<div style="text-align: justify; text-align-last: justify; width: 350px">
 <p>Made it! – pay for ticket, grab it, stick it</p>
 <p>into checking machine, pull it out, push</p>
 <p>through into Station, run onto platform –</p>
