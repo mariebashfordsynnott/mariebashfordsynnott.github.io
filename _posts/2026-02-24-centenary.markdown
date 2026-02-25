@@ -278,4 +278,3 @@ categories: writing
 <p>fluttering towards the Victorian glass and</p>
 <p>iron roof as the train slows down</p>
 <p>and stops ...and I stop. End of the line.</p>
-</div>
