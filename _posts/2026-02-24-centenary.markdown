@@ -7,7 +7,7 @@ categories: writing
 **Published in “A New Ulster “ Magazine - Issue 63 – 2017**
 
 <p />
-<div style="text-align: justify; text-align-last: justify; width: 350px">
+<div style="text-align: justify; text-align-last: justify; width: 320px">
 <p>Made it! – pay for ticket, grab it, stick it</p>
 <p>into checking machine, pull it out, push</p>
 <p>through into Station, run onto platform –</p>
