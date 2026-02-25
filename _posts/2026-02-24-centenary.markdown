@@ -4,6 +4,9 @@ title:  "Centenary"
 date:   2026-02-24 19:00:00 +0000
 categories: writing
 ---
+**Published in “A New Ulster “ Magazine - Issue 63 – 2017**
+
+<p />
 <div style="text-align: justify; text-align-last: justify; width: 350px">
 <p>Made it! – pay for ticket, grab it, stick it</p>
 <p>into checking machine, pull it out, push</p>
@@ -275,7 +278,4 @@ categories: writing
 <p>fluttering towards the Victorian glass and</p>
 <p>iron roof as the train slows down</p>
 <p>and stops ...and I stop. End of the line.</p>
-
 </div>
-
-**Published in “A New Ulster “ Magazine - Issue 63 – 2017**
