@@ -6,6 +6,7 @@ categories: writing
 ---
 **Published in “A New Ulster “ Magazine \- Issue 63 – 2017**
 
+<div style="text-align: justify">
 Made it\! – pay for ticket, grab it, stick it<br />
 into checking machine, pull it out, push<br />
 through into Station, run onto platform –<br />
@@ -275,3 +276,4 @@ bags, closing down laptops, pigeons<br />
 fluttering towards the Victorian glass and<br />
 iron roof as the train slows down<br />
 and stops ...and I stop. End of the line.<br />
+</div>
