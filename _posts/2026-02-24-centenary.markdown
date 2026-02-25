@@ -79,7 +79,7 @@ categories: writing
 <p>Spring, of pussywillow and corncrakes,
 <p>the City of the Broken Treaty – broken
 <p>- leave that , don't think about all that</p>
-<p>... the</p>
+<p>...the</p>
 <p>train fillingup, the early passengers going</p>
 <p>to jobs, more and more again finding</p>
 <p>work in Dublin as the recession ends, but</p>
